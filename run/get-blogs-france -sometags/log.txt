@@ -1,0 +1,2 @@
+=========== Mon Aug 29 20:32:16 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'etcanada.com' does not match the certificate subject provided by the peer (CN=*.wordpress.com, OU=Domain Control Validated)

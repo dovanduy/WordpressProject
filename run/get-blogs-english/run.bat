@@ -1,0 +1,1 @@
+java -Xmx1024m -cp wordpress.jar wordpress.EnglishUserExtraction 10000
