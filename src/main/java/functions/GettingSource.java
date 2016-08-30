@@ -102,11 +102,15 @@ public class GettingSource {
 	public static void main(String [] args) throws IOException
 	{
 		GettingSource object = new GettingSource();
-		String url = "https://rockawooly.wordpress.com";
+		String url = "https://matfifenbird.wordpress.com/";
 		if(args.length>0)
 		{
 			url = args[0];
 		}
-		System.out.println(object.getSource(url));
+		String source = object.getSource(url);
+		System.out.println(source);
+		
+		CheckingFranceUser object2 = new CheckingFranceUser();
+		System.out.println(object2.isFrancer(source));
 	}
 }

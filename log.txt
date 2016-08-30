@@ -1,0 +1,2400 @@
+=========== Sun Aug 28 01:38:47 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 01:39:23 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 01:39:24 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 01:40:48 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 01:40:49 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 01:47:29 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 01:47:30 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 01:48:08 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 01:48:09 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 01:49:28 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 01:49:28 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 01:50:34 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 01:50:34 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 02:54:22 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 02:54:23 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:54:23 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:54:23 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:56:55 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 02:56:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:56:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:56:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:05 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:05 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:05 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:35 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'myheartalchemist.com' does not match the certificate subject provided by the peer (CN=*.sgcpanel.com, OU=Domain Control Validated)
+=========== Sun Aug 28 02:57:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:57:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:58:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:58:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:58:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:58:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:58:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:58:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:58:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:58:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:58:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:59:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:59:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:59:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:59:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:59:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:59:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:59:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:59:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 02:59:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:00:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:00:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:00:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:00:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:00:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:00:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:00:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:00:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:00:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:01:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:01:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:01:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:01:23 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:01:23 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:01:23 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:01:57 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:01:57 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:01:57 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:02:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:02:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:02:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:02:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:02:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:02:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:02:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:02:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:02:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:03:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:03:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:03:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:03:21 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'jacksonsnook.com' does not match the certificate subject provided by the peer (CN=*.bluehost.com, OU=PositiveSSL Wildcard, OU="Hosted by BlueHost.Com, INC", OU=Domain Control Validated)
+=========== Sun Aug 28 03:03:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:03:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:03:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:03:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:03:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:03:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:08 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Sun Aug 28 03:04:08 ICT 2016 ==========
+java.net.UnknownHostException: tonyvega.net
+=========== Sun Aug 28 03:04:08 ICT 2016 ==========
+java.net.UnknownHostException: tonyvega.net
+=========== Sun Aug 28 03:04:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:57 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:57 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:04:57 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:05:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:05:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:05:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:05:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:05:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:05:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:05:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:05:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:05:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:12 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:12 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:12 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:06:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:07:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:07:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:07:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:07:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:07:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:07:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:07:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:07:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 03:07:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:44:27 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 08:44:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:44:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:44:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:44:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:44:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:44:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:44:35 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:44:35 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:44:35 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:44:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:44:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:44:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:05 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'myheartalchemist.com' does not match the certificate subject provided by the peer (CN=*.sgcpanel.com, OU=Domain Control Validated)
+=========== Sun Aug 28 08:45:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:19 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:19 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:19 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:19 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:45:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:46:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:46:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:46:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:46:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:46:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:46:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:46:32 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:46:32 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:46:32 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:47:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:47:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:47:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:47:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:47:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:47:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:47:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:47:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:47:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:47:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:47:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:47:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:48:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:48:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:48:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:48:39 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:48:39 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:48:39 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:48:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:48:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:48:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:49:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:50:32 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:50:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:50:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:50:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:50:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:50:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:00 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'jacksonsnook.com' does not match the certificate subject provided by the peer (CN=*.bluehost.com, OU=PositiveSSL Wildcard, OU="Hosted by BlueHost.Com, INC", OU=Domain Control Validated)
+=========== Sun Aug 28 08:51:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:43 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:43 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:43 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:45 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Sun Aug 28 08:51:45 ICT 2016 ==========
+java.net.UnknownHostException: tonyvega.net
+=========== Sun Aug 28 08:51:45 ICT 2016 ==========
+java.net.UnknownHostException: tonyvega.net
+=========== Sun Aug 28 08:51:45 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:45 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:51:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:52:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:52:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:52:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:52:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:52:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:52:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:52:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:52:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:52:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:53:27 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:53:27 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:53:27 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:53:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:53:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:53:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:54:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:13 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:13 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:13 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:19 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:19 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:19 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:54 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:54 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:54 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:55:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:00 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:00 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:00 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:05 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:05 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:05 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:24 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:24 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:24 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:56:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:57:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:57:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:57:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:57:29 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'littleleafofspringblog.com' does not match the certificate subject provided by the peer (CN=*.sgcpanel.com, OU=Domain Control Validated)
+=========== Sun Aug 28 08:57:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:57:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:57:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:57:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:57:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:57:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:45 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:45 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:45 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:52 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:52 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:52 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:58:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:59:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:59:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:59:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:59:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:59:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:59:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:59:57 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:59:57 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 08:59:57 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:00:15 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:00:15 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:00:15 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:00:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:00:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:00:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:00:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:00:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:00:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:00:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:00:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:00:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:01:16 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:01:16 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:01:16 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:01:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:01:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:01:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:01:47 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'theredliprover.com' does not match the certificate subject provided by the peer (CN=*.bluehost.com, OU=PositiveSSL Wildcard, OU="Hosted by BlueHost.Com, INC", OU=Domain Control Validated)
+=========== Sun Aug 28 09:02:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:02:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:02:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:02:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:02:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:02:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:02:50 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:02:50 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:02:50 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:03:13 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:03:13 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:03:13 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:03:16 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:03:16 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:03:16 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:03:39 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:03:39 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:03:39 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:03:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:03:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:03:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:04:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:04:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:04:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:04:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:04:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:04:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:04:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:04:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:04:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:05:39 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Sun Aug 28 09:05:39 ICT 2016 ==========
+java.net.UnknownHostException: nycbeautyblogger.com
+=========== Sun Aug 28 09:05:39 ICT 2016 ==========
+java.net.UnknownHostException: nycbeautyblogger.com
+=========== Sun Aug 28 09:05:39 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:05:39 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:05:39 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:06:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:06:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:06:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:06:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:06:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:06:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:06:54 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:06:54 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:06:54 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:06:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:06:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:06:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:07:22 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:07:22 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:07:22 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:07:22 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:07:22 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:07:22 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:07:25 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:07:25 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:07:25 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:08:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:08:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:08:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:08:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:08:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:08:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:08:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:08:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:08:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:09:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:09:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:09:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:09:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:09:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:09:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:09:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:09:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:09:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:09:37 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'admanfitness.com' does not match the certificate subject provided by the peer (CN=*.bluehost.com, OU=PositiveSSL Wildcard, OU="Hosted by BlueHost.Com, INC", OU=Domain Control Validated)
+=========== Sun Aug 28 09:09:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:09:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:09:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:15 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:15 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:15 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:23 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:23 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:23 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:43 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:43 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:10:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:50 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:50 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:50 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:50 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:50 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:50 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:11:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:26 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:26 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:26 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:52 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:52 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:12:52 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:36 ICT 2016 ==========
+org.apache.http.conn.HttpHostConnectException: Connect to acurtisfitness.com:443 [acurtisfitness.com/184.168.221.30] failed: Connection refused: connect
+=========== Sun Aug 28 09:13:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:13:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:14:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:14:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:14:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:14:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:14:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:14:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:15:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:15:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:15:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:15:20 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Sun Aug 28 09:15:20 ICT 2016 ==========
+java.net.UnknownHostException: www.chicinthetropics.com
+=========== Sun Aug 28 09:15:20 ICT 2016 ==========
+java.net.UnknownHostException: www.chicinthetropics.com
+=========== Sun Aug 28 09:15:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:15:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:15:20 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:15:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:15:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:15:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:15:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:15:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:15:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:16:08 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Sun Aug 28 09:16:08 ICT 2016 ==========
+java.net.UnknownHostException: thetopknotters.com
+=========== Sun Aug 28 09:16:08 ICT 2016 ==========
+java.net.UnknownHostException: thetopknotters.com
+=========== Sun Aug 28 09:16:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:16:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:16:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:16:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:16:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:16:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:16:38 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:16:38 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:16:38 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:17:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:17:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:17:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:17:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:17:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:17:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:17:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:17:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:17:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:18:09 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Sun Aug 28 09:18:09 ICT 2016 ==========
+java.net.UnknownHostException: missmiajean.com
+=========== Sun Aug 28 09:18:09 ICT 2016 ==========
+java.net.UnknownHostException: missmiajean.com
+=========== Sun Aug 28 09:18:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:18:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:18:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:18:35 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:18:35 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:18:35 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:18:35 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:18:35 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 09:18:35 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:31 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 10:04:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:38 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:38 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:38 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:04:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:09 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'myheartalchemist.com' does not match the certificate subject provided by the peer (CN=*.sgcpanel.com, OU=Domain Control Validated)
+=========== Sun Aug 28 10:05:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:52 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:52 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:52 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:57 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:57 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:05:57 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:27 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:27 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:27 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:27 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:27 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:27 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:27 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:27 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:27 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:06:51 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:15 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:15 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:15 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:17 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:17 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:17 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:43 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:43 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:43 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:45 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:45 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:45 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:07:59 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:00 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:00 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:14 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:14 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:14 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:19 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:19 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:19 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:08:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:32 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:32 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:32 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:43 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:43 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:43 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:45 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:45 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:45 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:52 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:52 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:52 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:55 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Sun Aug 28 10:09:55 ICT 2016 ==========
+java.net.UnknownHostException: nycbeautyblogger.com
+=========== Sun Aug 28 10:09:55 ICT 2016 ==========
+java.net.UnknownHostException: nycbeautyblogger.com
+=========== Sun Aug 28 10:09:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:09:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:10:16 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:10:16 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:10:16 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:10:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:10:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:10:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:10:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:10:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:10:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:25 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:25 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:25 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:26 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:27 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:27 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:11:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:39 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Sun Aug 28 10:12:39 ICT 2016 ==========
+java.net.UnknownHostException: www.chicinthetropics.com
+=========== Sun Aug 28 10:12:39 ICT 2016 ==========
+java.net.UnknownHostException: www.chicinthetropics.com
+=========== Sun Aug 28 10:12:39 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:39 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:39 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:12:41 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:03 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:05 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:05 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:05 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:32 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:32 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:32 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:13:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:36 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Sun Aug 28 10:14:36 ICT 2016 ==========
+java.net.UnknownHostException: thetopknotters.com
+=========== Sun Aug 28 10:14:36 ICT 2016 ==========
+java.net.UnknownHostException: thetopknotters.com
+=========== Sun Aug 28 10:14:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:14:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:31 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:33 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Sun Aug 28 10:15:33 ICT 2016 ==========
+java.net.UnknownHostException: tonyvega.net
+=========== Sun Aug 28 10:15:33 ICT 2016 ==========
+java.net.UnknownHostException: tonyvega.net
+=========== Sun Aug 28 10:15:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:15:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:00 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:00 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:00 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:08 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:09 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:14 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:14 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:14 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:18 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:29 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'admanfitness.com' does not match the certificate subject provided by the peer (CN=*.bluehost.com, OU=PositiveSSL Wildcard, OU="Hosted by BlueHost.Com, INC", OU=Domain Control Validated)
+=========== Sun Aug 28 10:16:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:16:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:06 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:34 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:17:58 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:49 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:53 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:54 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Sun Aug 28 10:18:54 ICT 2016 ==========
+java.net.UnknownHostException: missmiajean.com
+=========== Sun Aug 28 10:18:54 ICT 2016 ==========
+java.net.UnknownHostException: missmiajean.com
+=========== Sun Aug 28 10:18:54 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:54 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:54 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:18:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:24 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:24 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:24 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:24 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:24 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:24 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:25 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:25 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:25 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:25 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:25 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:25 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:26 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:26 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 10:19:26 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:11:56 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:11:57 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:11:57 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:12:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:12:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:12:33 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:12:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:12:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:12:42 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:14:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:14:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:14:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:14:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:14:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:14:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:16:00 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:16:00 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:16:00 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:16:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:16:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:16:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:17:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:17:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:17:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:18:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:18:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:18:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:21:15 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:21:15 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:21:16 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:22:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:22:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:22:04 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:22:22 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:22:22 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:22:22 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:22:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:22:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:22:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:25:13 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:25:14 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:25:14 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:25:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:25:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:25:48 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:26:17 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:26:17 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:26:17 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:27:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:27:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:27:30 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:27:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:27:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:27:47 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:29:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:29:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:29:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:31:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:31:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:31:37 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:36:44 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:36:45 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:36:45 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 13:55:55 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 13:57:42 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 13:59:57 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 14:01:26 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Sun Aug 28 14:07:45 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 14:07:47 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 14:07:48 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 14:08:34 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 14:09:11 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 14:09:12 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 14:09:13 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 14:11:37 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'myheartalchemist.com' does not match the certificate subject provided by the peer (CN=*.sgcpanel.com, OU=Domain Control Validated)
+=========== Sun Aug 28 14:12:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:12:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:12:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:12:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:12:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:12:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:12:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:12:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:12:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+java.net.UnknownHostException: www.chicinthetropics.com
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+java.net.UnknownHostException: www.chicinthetropics.com
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+java.net.UnknownHostException: www.chicinthetropics.com
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+java.net.UnknownHostException: www.chicinthetropics.com
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+java.net.UnknownHostException: www.chicinthetropics.com
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+java.net.UnknownHostException: www.chicinthetropics.com
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+java.net.UnknownHostException: www.chicinthetropics.com
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+java.net.UnknownHostException: www.chicinthetropics.com
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:10 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:13:11 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:14:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:14:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:14:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:14:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:14:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:14:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:14:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:14:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:14:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:16:29 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Sun Aug 28 14:16:29 ICT 2016 ==========
+java.net.UnknownHostException: thetopknotters.com
+=========== Sun Aug 28 14:16:29 ICT 2016 ==========
+java.net.UnknownHostException: thetopknotters.com
+=========== Sun Aug 28 14:16:29 ICT 2016 ==========
+java.net.UnknownHostException: thetopknotters.com
+=========== Sun Aug 28 14:16:29 ICT 2016 ==========
+java.net.UnknownHostException: thetopknotters.com
+=========== Sun Aug 28 14:16:29 ICT 2016 ==========
+java.net.UnknownHostException: thetopknotters.com
+=========== Sun Aug 28 14:16:29 ICT 2016 ==========
+java.net.UnknownHostException: thetopknotters.com
+=========== Sun Aug 28 14:16:29 ICT 2016 ==========
+java.net.UnknownHostException: thetopknotters.com
+=========== Sun Aug 28 14:16:29 ICT 2016 ==========
+java.net.UnknownHostException: thetopknotters.com
+=========== Sun Aug 28 14:26:32 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 14:26:33 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 14:26:34 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 14:28:56 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'myheartalchemist.com' does not match the certificate subject provided by the peer (CN=*.sgcpanel.com, OU=Domain Control Validated)
+=========== Sun Aug 28 14:29:40 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:30:26 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:30:28 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Sun Aug 28 14:30:28 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:30:29 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:32:13 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 14:33:48 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Sun Aug 28 23:31:57 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'liberalfemocrat.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Sun Aug 28 23:34:21 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'myheartalchemist.com' does not match the certificate subject provided by the peer (CN=*.sgcpanel.com, OU=Domain Control Validated)
+=========== Sun Aug 28 23:35:07 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 23:35:52 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 23:35:54 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Sun Aug 28 23:35:55 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 23:37:36 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 23:39:15 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Sun Aug 28 23:40:01 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 23:40:02 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 23:40:45 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 23:42:14 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Sun Aug 28 23:44:01 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Sun Aug 28 23:44:02 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'admanfitness.com' does not match the certificate subject provided by the peer (CN=*.bluehost.com, OU=PositiveSSL Wildcard, OU="Hosted by BlueHost.Com, INC", OU=Domain Control Validated)
+=========== Sun Aug 28 23:46:22 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Sun Aug 28 23:46:46 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Mon Aug 29 12:54:06 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Mon Aug 29 12:55:34 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'tribevibe.mlblogs.com' does not match the certificate subject provided by the peer (CN=*.wordpress.com, OU=Domain Control Validated)
+=========== Mon Aug 29 12:59:12 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Mon Aug 29 13:00:18 ICT 2016 ==========
+org.apache.http.conn.HttpHostConnectException: Connect to theweddingspark.com:443 [theweddingspark.com/2a00:1ee0:2:9:0:0:2eb7:ef8, theweddingspark.com/46.183.14.248] failed: Connection refused: connect
+=========== Mon Aug 29 13:01:04 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'wzlx.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Mon Aug 29 13:06:49 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+=========== Mon Aug 29 13:07:25 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Mon Aug 29 13:14:10 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: inidapopo.wordpress.com:443 failed to respond
+=========== Mon Aug 29 13:15:27 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'mix1065fm.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Mon Aug 29 13:15:55 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: evacuumtoday.com:443 failed to respond
+=========== Mon Aug 29 14:12:57 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Mon Aug 29 14:13:38 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Mon Aug 29 14:13:56 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Mon Aug 29 14:14:04 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Mon Aug 29 14:14:22 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Mon Aug 29 14:15:31 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'www.mrsaokaworkinprogress.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Mon Aug 29 14:21:00 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'www.mrsaokaworkinprogress.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Mon Aug 29 14:21:19 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'mrsaokaworkinprogress.com' does not match the certificate subject provided by the peer (CN=incapsula.com, O=Incapsula Inc, L=Dover, ST=Delaware, C=US)
+=========== Mon Aug 29 14:25:21 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Mon Aug 29 17:03:30 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Mon Aug 29 17:03:33 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Mon Aug 29 17:04:16 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Mon Aug 29 17:04:36 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Mon Aug 29 17:05:53 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Mon Aug 29 17:06:02 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Mon Aug 29 17:06:57 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: hashtagbyjvb.wordpress.com:443 failed to respond
+=========== Mon Aug 29 17:08:02 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'www.domi-leblog.fr' does not match the certificate subject provided by the peer (CN=ssl13.ovh.net, OU=Domain Control Validated, C=FR)
+=========== Mon Aug 29 17:17:07 ICT 2016 ==========
+org.apache.http.conn.HttpHostConnectException: Connect to blog.d2-si.fr:443 [blog.d2-si.fr/52.48.48.45] failed: Connection timed out: connect
+=========== Mon Aug 29 17:23:42 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Mon Aug 29 17:29:16 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: siourmargalit.wordpress.com:443 failed to respond
+=========== Mon Aug 29 17:29:46 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Mon Aug 29 17:33:20 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+=========== Mon Aug 29 17:33:42 ICT 2016 ==========
+org.apache.http.conn.HttpHostConnectException: Connect to lymeninja.org:443 [lymeninja.org/195.20.15.160] failed: Connection refused: connect
+=========== Mon Aug 29 17:35:46 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'taxilive.be' does not match the certificate subject provided by the peer (CN=wordpress.com, O="WordPress.com (Automattic, Inc.)", L=San Francisco, ST=California, C=US, SERIALNUMBER=C2804985, OID.2.5.4.15=Private Organization, OID.1.3.6.1.4.1.311.60.2.1.2=California, OID.1.3.6.1.4.1.311.60.2.1.3=US)
+=========== Mon Aug 29 17:41:02 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Mon Aug 29 17:42:09 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'worldofnk.com' does not match the certificate subject provided by the peer (CN=*.hostgator.com, OU=PositiveSSL Wildcard, OU="Hosted by HostGator.com, LLC.", OU=Domain Control Validated)
+=========== Mon Aug 29 17:47:08 ICT 2016 ==========
+javax.net.ssl.SSLProtocolException: handshake alert:  unrecognized_name
+=========== Mon Aug 29 18:26:51 ICT 2016 ==========
+java.lang.IllegalArgumentException: Illegal character in scheme name at index 0: <a href="https://rockawooly.wordpress.com/2016/08/23/tout-ce-que-mon-fils-ne-sait-pas-faire-et-pourtant/">Tout ce que mon fils ne sait pas faire&#8230; et pourtant&nbsp;!</a>						</li>
+=========== Mon Aug 29 18:26:52 ICT 2016 ==========
+java.lang.IllegalArgumentException: Illegal character in scheme name at index 0: <a href="http://rockawooly.wordpress.com/2016/08/23/tout-ce-que-mon-fils-ne-sait-pas-faire-et-pourtant/">Tout ce que mon fils ne sait pas faire&#8230; et pourtant&nbsp;!</a>						</li>
+=========== Mon Aug 29 18:26:52 ICT 2016 ==========
+java.lang.IllegalArgumentException: Illegal character in scheme name at index 0: <a href="https://rockawooly.wordpress.com/2016/08/23/tout-ce-que-mon-fils-ne-sait-pas-faire-et-pourtant/">Tout ce que mon fils ne sait pas faire&#8230; et pourtant&nbsp;!</a>						</li>
+=========== Mon Aug 29 18:27:09 ICT 2016 ==========
+java.lang.IllegalArgumentException: Illegal character in scheme name at index 0: <a href="https://rockawooly.wordpress.com/2016/08/23/tout-ce-que-mon-fils-ne-sait-pas-faire-et-pourtant/">Tout ce que mon fils ne sait pas faire&#8230; et pourtant&nbsp;!</a>						</li>
+=========== Mon Aug 29 18:27:09 ICT 2016 ==========
+java.lang.IllegalArgumentException: Illegal character in scheme name at index 0: <a href="http://rockawooly.wordpress.com/2016/08/23/tout-ce-que-mon-fils-ne-sait-pas-faire-et-pourtant/">Tout ce que mon fils ne sait pas faire&#8230; et pourtant&nbsp;!</a>						</li>
+=========== Mon Aug 29 18:27:09 ICT 2016 ==========
+java.lang.IllegalArgumentException: Illegal character in scheme name at index 0: <a href="https://rockawooly.wordpress.com/2016/08/23/tout-ce-que-mon-fils-ne-sait-pas-faire-et-pourtant/">Tout ce que mon fils ne sait pas faire&#8230; et pourtant&nbsp;!</a>						</li>
+=========== Mon Aug 29 20:18:04 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Mon Aug 29 20:18:04 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Mon Aug 29 20:18:07 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Mon Aug 29 20:18:15 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Mon Aug 29 20:23:44 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Mon Aug 29 20:24:25 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Mon Aug 29 20:24:46 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Mon Aug 29 20:25:31 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+=========== Mon Aug 29 20:25:39 ICT 2016 ==========
+org.apache.http.conn.HttpHostConnectException: Connect to lymeninja.org:443 [lymeninja.org/195.20.15.160] failed: Connection refused: connect
+=========== Mon Aug 29 20:27:28 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Mon Aug 29 20:28:43 ICT 2016 ==========
+javax.net.ssl.SSLProtocolException: handshake alert:  unrecognized_name

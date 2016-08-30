@@ -28,3 +28,263 @@ javax.net.ssl.SSLHandshakeException: Remote host closed connection during handsh
 org.apache.http.NoHttpResponseException: breakfastatkikis.com:443 failed to respond
 =========== Mon Aug 29 16:58:30 ICT 2016 ==========
 org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+=========== Tue Aug 30 10:31:32 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: homesteaddad.com:443 failed to respond
+=========== Tue Aug 30 10:36:44 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 10:37:25 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'love2bloom.com' does not match the certificate subject provided by the peer (CN=*.sgcpanel.com, OU=Domain Control Validated)
+=========== Tue Aug 30 10:37:38 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'crittercollective.net' does not match the certificate subject provided by the peer (CN=*.bluehost.com, OU=PositiveSSL Wildcard, OU="Hosted by BlueHost.Com, INC", OU=Domain Control Validated)
+=========== Tue Aug 30 10:42:21 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 10:44:30 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 10:45:13 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'etcanada.com' does not match the certificate subject provided by the peer (CN=*.wordpress.com, OU=Domain Control Validated)
+=========== Tue Aug 30 10:45:36 ICT 2016 ==========
+java.net.UnknownHostException: DNS server failure [response code 2]
+=========== Tue Aug 30 10:46:51 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'taketimetocreate.com' does not match the certificate subject provided by the peer (CN=*.hostgator.com, OU=PositiveSSL Wildcard, OU="Hosted by HostGator.com, LLC.", OU=Domain Control Validated)
+=========== Tue Aug 30 10:47:15 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 10:48:52 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 10:51:26 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 10:57:38 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 10:58:23 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: littlemissindependentweb.wordpress.com:443 failed to respond
+=========== Tue Aug 30 10:59:16 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: thegraduatespouse.wordpress.com:443 failed to respond
+=========== Tue Aug 30 11:00:00 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 11:03:16 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 11:06:34 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 11:11:56 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 11:13:32 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'themarketingivy.com' does not match the certificate subject provided by the peer (CN=*.bluehost.com, OU=PositiveSSL Wildcard, OU="Hosted by BlueHost.Com, INC", OU=Domain Control Validated)
+=========== Tue Aug 30 11:16:27 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: anythingrachel.com:443 failed to respond
+=========== Tue Aug 30 11:18:11 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 11:21:36 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 11:21:51 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 11:21:52 ICT 2016 ==========
+java.net.UnknownHostException: cikpuankam.wordpress.com
+=========== Tue Aug 30 11:22:07 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 11:22:29 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 11:23:51 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: haightstreetlivingblog.wordpress.com:443 failed to respond
+=========== Tue Aug 30 11:25:18 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 11:27:44 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 11:28:42 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 11:30:20 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 11:30:31 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: moonstorm90.wordpress.com:443 failed to respond
+=========== Tue Aug 30 11:31:42 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 11:33:42 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 11:34:00 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 11:35:23 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 11:48:10 ICT 2016 ==========
+java.net.SocketException: Software caused connection abort: recv failed
+=========== Tue Aug 30 11:51:54 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 11:52:09 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 11:52:24 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 11:52:45 ICT 2016 ==========
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+=========== Tue Aug 30 12:00:44 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'etcanada.com' does not match the certificate subject provided by the peer (CN=*.wordpress.com, OU=Domain Control Validated)
+=========== Tue Aug 30 12:01:09 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:01:41 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: marinepellarin.wordpress.com:443 failed to respond
+=========== Tue Aug 30 12:02:54 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 12:06:17 ICT 2016 ==========
+org.apache.http.conn.HttpHostConnectException: Connect to lifewithjson.com:443 [lifewithjson.com/192.0.78.24, lifewithjson.com/192.0.78.25] failed: Connection timed out: connect
+=========== Tue Aug 30 12:06:32 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:06:32 ICT 2016 ==========
+java.net.UnknownHostException: lifewithjson.com
+=========== Tue Aug 30 12:06:47 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:07:02 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:07:08 ICT 2016 ==========
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+=========== Tue Aug 30 12:16:59 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:17:14 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:17:29 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:17:44 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:17:49 ICT 2016 ==========
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+=========== Tue Aug 30 12:21:49 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: beccleslibraryreviews.wordpress.com:443 failed to respond
+=========== Tue Aug 30 12:22:04 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 12:23:55 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:24:10 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:24:25 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:24:41 ICT 2016 ==========
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+=========== Tue Aug 30 12:29:44 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'mix941fm.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Tue Aug 30 12:29:59 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'mix1051.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Tue Aug 30 12:32:55 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'kymx.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Tue Aug 30 12:33:43 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'radioalice.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Tue Aug 30 12:34:08 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: holylaugh.com:443 failed to respond
+=========== Tue Aug 30 12:35:42 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'ksfm.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Tue Aug 30 12:36:25 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+=========== Tue Aug 30 12:41:42 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 12:42:15 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:42:15 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:42:15 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:42:16 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:42:16 ICT 2016 ==========
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+=========== Tue Aug 30 12:45:36 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'leaderpost.com' does not match the certificate subject provided by the peer (CN=ssl001.insnw.net, O="Instart Logic, Inc", L=Mountain View, ST=California, C=US)
+=========== Tue Aug 30 12:45:42 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'montrealgazette.com' does not match the certificate subject provided by the peer (CN=ssl001.insnw.net, O="Instart Logic, Inc", L=Mountain View, ST=California, C=US)
+=========== Tue Aug 30 12:51:16 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'edlovershow.com' does not match the certificate subject provided by the peer (CN=*.wordpress.com, OU=Domain Control Validated)
+=========== Tue Aug 30 12:52:22 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:52:22 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 12:52:23 ICT 2016 ==========
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+=========== Tue Aug 30 13:00:04 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Tue Aug 30 13:01:29 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'faithfully-following.com' does not match the certificate subject provided by the peer (CN=*.gridserver.com, OU=Domain Control Validated)
+=========== Tue Aug 30 13:02:28 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 13:02:28 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 13:02:29 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 13:02:29 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 13:02:29 ICT 2016 ==========
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+=========== Tue Aug 30 13:05:15 ICT 2016 ==========
+org.apache.http.conn.HttpHostConnectException: Connect to lymeninja.org:443 [lymeninja.org/195.20.15.160] failed: Connection refused: connect
+=========== Tue Aug 30 13:06:24 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Tue Aug 30 13:12:33 ICT 2016 ==========
+java.net.SocketException: Software caused connection abort: recv failed
+=========== Tue Aug 30 13:12:34 ICT 2016 ==========
+java.net.NoRouteToHostException: No route to host: connect
+=========== Tue Aug 30 13:12:34 ICT 2016 ==========
+java.net.NoRouteToHostException: No route to host: connect
+=========== Tue Aug 30 13:12:34 ICT 2016 ==========
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+=========== Tue Aug 30 13:16:03 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+=========== Tue Aug 30 13:22:40 ICT 2016 ==========
+java.net.SocketException: Software caused connection abort: recv failed
+=========== Tue Aug 30 13:22:40 ICT 2016 ==========
+java.net.NoRouteToHostException: No route to host: connect
+=========== Tue Aug 30 13:22:40 ICT 2016 ==========
+java.net.NoRouteToHostException: No route to host: connect
+=========== Tue Aug 30 13:22:41 ICT 2016 ==========
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+=========== Tue Aug 30 13:23:32 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'suharyantobjm.com' does not match the certificate subject provided by the peer (CN=adabisnis.com)
+=========== Tue Aug 30 13:30:31 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Tue Aug 30 13:32:20 ICT 2016 ==========
+org.apache.http.conn.HttpHostConnectException: Connect to wswproductions.com:443 [wswproductions.com/198.61.239.82] failed: Connection timed out: connect
+=========== Tue Aug 30 13:32:48 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'bookrockbetty.com' does not match the certificate subject provided by the peer (CN=*.bluehost.com, OU=PositiveSSL Wildcard, OU="Hosted by BlueHost.Com, INC", OU=Domain Control Validated)
+=========== Tue Aug 30 13:36:13 ICT 2016 ==========
+org.apache.http.conn.HttpHostConnectException: Connect to thebaldmanreturns.wordpress.com:443 [thebaldmanreturns.wordpress.com/192.0.78.12, thebaldmanreturns.wordpress.com/192.0.78.13] failed: Connection timed out: connect
+=========== Tue Aug 30 13:36:28 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 13:36:28 ICT 2016 ==========
+java.net.UnknownHostException: thebaldmanreturns.wordpress.com
+=========== Tue Aug 30 13:44:26 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 13:54:16 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'now100fm.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Tue Aug 30 13:56:02 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'thebull.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Tue Aug 30 13:57:25 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'ksfm.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Tue Aug 30 13:58:17 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'mix1041.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Tue Aug 30 14:04:11 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: ljubicicamesozderka.wordpress.com:443 failed to respond
+=========== Tue Aug 30 14:08:33 ICT 2016 ==========
+org.json.JSONException: A JSONObject text must begin with '{' at 1 [character 2 line 1]
+=========== Tue Aug 30 14:09:15 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 14:14:26 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'calgaryherald.com' does not match the certificate subject provided by the peer (CN=ssl001.insnw.net, O="Instart Logic, Inc", L=Mountain View, ST=California, C=US)
+=========== Tue Aug 30 14:17:22 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 14:18:30 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+=========== Tue Aug 30 14:22:18 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'edmontonjournal.com' does not match the certificate subject provided by the peer (CN=ssl001.insnw.net, O="Instart Logic, Inc", L=Mountain View, ST=California, C=US)
+=========== Tue Aug 30 14:27:58 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 14:28:14 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: pacharcoal.com:443 failed to respond
+=========== Tue Aug 30 14:32:19 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'naturefanactivists.com' does not match the certificate subject provided by the peer (CN=*.bluehost.com, OU=PositiveSSL Wildcard, OU="Hosted by BlueHost.Com, INC", OU=Domain Control Validated)
+=========== Tue Aug 30 14:33:37 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'news.nationalpost.com' does not match the certificate subject provided by the peer (CN=*.wordpress.com, OU=Domain Control Validated)
+=========== Tue Aug 30 14:40:08 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 14:43:36 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Tue Aug 30 14:44:13 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'aggregatepress.org' does not match the certificate subject provided by the peer (CN=*.sgcpanel.com, OU=Domain Control Validated)
+=========== Tue Aug 30 14:44:45 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'hackingafrica.com' does not match the certificate subject provided by the peer (CN=*.bluehost.com, OU=PositiveSSL Wildcard, OU="Hosted by BlueHost.Com, INC", OU=Domain Control Validated)
+=========== Tue Aug 30 14:57:17 ICT 2016 ==========
+org.apache.http.conn.HttpHostConnectException: Connect to accidentalantenna.com:443 [accidentalantenna.com/184.168.221.7] failed: Connection refused: connect
+=========== Tue Aug 30 14:57:21 ICT 2016 ==========
+org.apache.http.client.ClientProtocolException
+=========== Tue Aug 30 15:10:20 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
