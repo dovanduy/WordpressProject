@@ -1,8 +1,5 @@
 package functions;
 
-import java.io.IOException;
-
-import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.HttpClient;
 import org.apache.http.client.ResponseHandler;
 import org.apache.http.client.methods.HttpPost;

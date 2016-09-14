@@ -1,10 +1,15 @@
 package functions;
 
+import java.io.BufferedReader;
+import java.io.FileInputStream;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import parameter.Parameter;
 
 public class ContactExtraction {
 	
@@ -16,11 +21,32 @@ public class ContactExtraction {
 	
 	private GettingSource mySource;
 	private AboutLinkExtraction myAboutLink;
+	private HashSet<String> removeLink;
 	
 	public ContactExtraction()
 	{
 		mySource = new GettingSource();
 		myAboutLink = new AboutLinkExtraction();
+		removeLink = new HashSet<>();
+		removeLink.add("https://www.facebook.com/pages");
+		removeLink.add("https://twitter.com/share");
+		removeLink.add("https://twitter.com/wordpressdotcom");
+		removeLink.add("https://www.facebook.com/wikipedia");
+		
+		try {
+			BufferedReader br = new BufferedReader(
+					new InputStreamReader(new FileInputStream(Parameter.file_not_contact)));
+			String line;
+			while((line=br.readLine())!=null)
+			{
+				removeLink.add(line);
+			}
+			br.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		
+		System.out.println(removeLink);
 	}
 	
 	public ArrayList<String> extractContactFromSource(String source)
@@ -38,7 +64,7 @@ public class ContactExtraction {
 			    do 
 			    {
 			    	String candidate = matcher.group();
-			    	if(!setContacts.contains(candidate))
+			    	if(!setContacts.contains(candidate) && !removeLink.contains(candidate))
 			    	{
 			    		setContacts.add(candidate);
 			    		listContacts.add(candidate);
@@ -55,7 +81,7 @@ public class ContactExtraction {
 			    do 
 			    {
 			    	String candidate = matcher.group();
-			    	if(!setContacts.contains(candidate))
+			    	if(!setContacts.contains(candidate) && !removeLink.contains(candidate))
 			    	{
 			    		setContacts.add(candidate);
 			    		listContacts.add(candidate);
@@ -72,7 +98,7 @@ public class ContactExtraction {
 			    do 
 			    {
 			    	String candidate = matcher.group();
-			    	if(!setContacts.contains(candidate))
+			    	if(!setContacts.contains(candidate) && !removeLink.contains(candidate))
 			    	{
 			    		setContacts.add(candidate);
 			    		listContacts.add(candidate);
@@ -89,7 +115,7 @@ public class ContactExtraction {
 			    do 
 			    {
 			    	String candidate = matcher.group();
-			    	if(!setContacts.contains(candidate))
+			    	if(!setContacts.contains(candidate) && !removeLink.contains(candidate))
 			    	{
 			    		setContacts.add(candidate);
 			    		listContacts.add(candidate);
@@ -103,8 +129,8 @@ public class ContactExtraction {
 			Pattern pattern = Pattern.compile(patttern_name);
 			Matcher matcher = pattern.matcher(source.toLowerCase());
 			if (matcher.find()) {
-				setContacts.add("personal_feature");
-	    		listContacts.add("personal_feature");
+				setContacts.add(Parameter.label_personal_feature);
+	    		listContacts.add(Parameter.label_personal_feature);
 			}
 		}
 		
@@ -125,8 +151,15 @@ public class ContactExtraction {
 			return listContacts;
 		} else {
 			String linkabout = myAboutLink.getAboutLink(sourceUser);
-			if(linkabout.length()==0)
+			if(linkabout.length()>0)
 			{
+				String sourceAbout = mySource.getSource(linkabout);
+				listContacts = extractContactFromSource(sourceAbout);
+				if(listContacts.size() > 0)
+				{
+					return listContacts;
+				}
+			} else {
 //				linkabout = url;
 //				if(linkabout.endsWith("/"))
 //				{
@@ -146,15 +179,6 @@ public class ContactExtraction {
 //					listContacts = extractContactFromSource(sourceAbout);
 //					return listContacts;
 //				}
-				
-				return new ArrayList<>();
-			} else {
-				String sourceAbout = mySource.getSource(linkabout);
-				listContacts = extractContactFromSource(sourceAbout);
-				if(listContacts.size() > 0)
-				{
-					return listContacts;
-				}
 			}
 		}
 		
@@ -165,12 +189,13 @@ public class ContactExtraction {
 	{
 		ContactExtraction object = new ContactExtraction();
 		
-		String url = "";
+		String url = "https://waterandflower.wordpress.com";
 		System.out.println(object.extractContactFromUrl(url));
 		ArrayList<String> arrayListContents = object.extractContactFromSource(url);
 		for(String content : arrayListContents)
 		{
 			System.out.println(content);
 		}
+		
 	}
 }

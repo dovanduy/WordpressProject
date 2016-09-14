@@ -102,7 +102,7 @@ public class GettingSource {
 	public static void main(String [] args) throws IOException
 	{
 		GettingSource object = new GettingSource();
-		String url = "https://matfifenbird.wordpress.com/";
+		String url = "https://www.youtube.com/channel/UCyC-NmxIV7T3FA2GoSt5FKQ/videos";
 		if(args.length>0)
 		{
 			url = args[0];
@@ -110,7 +110,7 @@ public class GettingSource {
 		String source = object.getSource(url);
 		System.out.println(source);
 		
-		CheckingFranceUser object2 = new CheckingFranceUser();
-		System.out.println(object2.isFrancer(source));
+//		CheckingFranceUser object2 = new CheckingFranceUser();
+//		System.out.println(object2.isFrancer(source));
 	}
 }

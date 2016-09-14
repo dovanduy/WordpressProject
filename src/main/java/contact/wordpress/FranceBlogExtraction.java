@@ -1,4 +1,4 @@
-package wordpress;
+package contact.wordpress;
 
 import java.io.File;
 import java.io.IOException;
@@ -13,8 +13,9 @@ import org.apache.http.impl.client.HttpClientBuilder;
 import org.json.JSONArray;
 import org.json.JSONObject;
 
-import data.Users;
+import data.BlogsIO;
 import functions.CheckingFranceUser;
+import functions.ContactExtraction;
 import functions.FirstTimestampExtraction;
 import functions.GettingSource;
 import functions.MyLog;
@@ -22,28 +23,51 @@ import functions.RandomSequence;
 import functions.TagsExtraction;
 import parameter.Parameter;
 
-public class FranceUserExtraction 
+public class FranceBlogExtraction 
 {
 	static GettingSource gettingsource = new GettingSource();	
 	static CheckingFranceUser checkingFranceUser = new CheckingFranceUser();
-	static HashMap<String, Integer> mapUsers = new HashMap<String, Integer>();
+	static HashMap<String, Integer> mapCheckedBlogs = new HashMap<String, Integer>();
+	static HashMap<String, Integer> mapOriginPersonalBlogs = new HashMap<String, Integer>();
+	static HashMap<String, Integer> mapAllBlogs = new HashMap<String, Integer>();
+	static ContactExtraction contactExtraction = new ContactExtraction();
+	
+	public static void init() throws IOException {
+		System.out.println("Start init ...");
+		
+		File folder = new File(Parameter.folder_data);
+		if(!(folder.exists() && folder.isDirectory()))
+		{
+			new File(Parameter.folder_data).mkdir();
+		}
+		
+		File file_checked = new File(Parameter.file_checked_blog);
+		if(file_checked.exists() && !file_checked.isDirectory()) 
+		{ 
+			mapCheckedBlogs = BlogsIO.getMapCheckedBlog();
+		}
+		
+		File file_personal = new File(Parameter.file_personal_blog_getted_contact);
+		if(file_personal.exists() && !file_personal.isDirectory()) 
+		{ 
+			mapOriginPersonalBlogs = BlogsIO.getMapPersonalBlog();					
+		}
+		
+		for(String blog : mapCheckedBlogs.keySet())
+		{
+			mapAllBlogs.put(blog, 0);
+		}
+		for(String blog : mapOriginPersonalBlogs.keySet())
+		{
+			mapAllBlogs.put(blog, 0);
+		}
+		
+		System.out.println("Done init!");
+	}
 	
 	@SuppressWarnings("deprecation")
 	public static void doAllTags() throws IOException
 	{
-		// Override system DNS setting with Google free DNS server
-		System.setProperty("sun.net.spi.nameservice.nameservers", "8.8.8.8");
-		System.setProperty("sun.net.spi.nameservice.provider.1", "dns,sun");
-		
-		File f = new File(Parameter.file_new_user);
-		if(f.exists() && !f.isDirectory()) 
-		{ 
-			mapUsers = Users.getMapUser();
-		} else {
-			new File("data").mkdir();
-			mapUsers = new HashMap<>();
-		}
-		
 		HashMap<String, String> mapTags = TagsExtraction.getListTagsFrance();
 		
 		String [] arrayUrls = new String[mapTags.size()];
@@ -65,10 +89,12 @@ public class FranceUserExtraction
 			String urlTag = arrayUrls[indexTag];
 			String slug = arraySlugs[indexTag];
 			
-			HashMap<String, Integer> mapUsers_perTag_france = new HashMap<String, Integer>();
-			HashMap<String, Integer> mapUsers_perTag = new HashMap<String, Integer>();
+			HashMap<String, Integer> mapBlogsPerTagFrance = new HashMap<String, Integer>();
+			HashMap<String, Integer> mapBlogsPerTag = new HashMap<String, Integer>();
+			HashMap<String, String> mapNewPersonalContactPertag = new HashMap<String, String>();
+			HashMap<String, Integer> mapNewPersonalNotContactPertag = new HashMap<String, Integer>();
 			
-			int number_post = 0;
+			int number_post = 1;
 			
 			System.out.println("=== " + slug + " ===");
 			
@@ -113,10 +139,7 @@ public class FranceUserExtraction
 						e.printStackTrace();
 					}
 
-					// System.out.println(url);
-					// System.out.println(responseBody);
 					JSONObject page = new JSONObject(responseBody);
-
 					JSONArray posts = page.getJSONArray("posts");
 
 					for (int i = 0; i < posts.length(); i++) 
@@ -125,22 +148,39 @@ public class FranceUserExtraction
 						
 						String blog_url = post.get("blog_url").toString().replace("http:", "https:");
 						before = post.getLong("post_timestamp") + "";
-						if(!mapUsers.containsKey(blog_url))
+						if(!mapAllBlogs.containsKey(blog_url))
 						{
-							mapUsers.put(blog_url, 0);
-							mapUsers_perTag.put(blog_url, 0);
+							mapAllBlogs.put(blog_url, 0);
+							mapBlogsPerTag.put(blog_url, 0);
 							String source = gettingsource.getSource(blog_url);
 							if(checkingFranceUser.isFrancer(source))
 							{
-								mapUsers_perTag_france.put(blog_url, 0);
+								mapBlogsPerTagFrance.put(blog_url, 0);
+								
+								// get contact if personal-blog
+								ArrayList<String> listContact = contactExtraction.extractContactFromUrl(blog_url);
+								if(listContact.size()>0)
+								{
+									if(listContact.size()==1 && listContact.contains(Parameter.label_personal_feature))
+									{
+										mapNewPersonalNotContactPertag.put(blog_url, 0);
+									} else {
+										if (listContact.contains(Parameter.label_personal_feature))
+										{
+											listContact.remove(Parameter.label_personal_feature);
+										}
+										mapNewPersonalContactPertag.put(blog_url, listContact.toString());
+									}
+								}
 							}
 						}
 						
 						System.out.println(blog_url);
-						System.out.println("Number post per tag: " + (++number_post));
-						System.out.println("Number user per tag: " + mapUsers_perTag.size());
-						System.out.println("Number user france per tag: " + mapUsers_perTag_france.size());
-						System.out.println("Number user all tag: " +  + mapUsers.size());
+						System.out.println("Number posts per tag: " + (number_post++));
+						System.out.println("Number blogs per tag: " + mapBlogsPerTag.size());
+						System.out.println("Number blogs france per tag: " + mapBlogsPerTagFrance.size());
+						System.out.println("Number personal contact blogs per tag: " + mapNewPersonalContactPertag.size());
+						System.out.println("Number blogs all tag: " +  + mapAllBlogs.size());
 						System.out.println();
 					}
 					
@@ -161,10 +201,12 @@ public class FranceUserExtraction
 				MyLog.saveLog(e.toString());
 			}
 			
-			Users.saveMapUser(mapUsers_perTag);
-			Users.saveMapUserFrance(mapUsers_perTag_france);
-			System.out.println("Save mapUsers done!");
+			BlogsIO.saveMapBlogs(mapBlogsPerTag, Parameter.file_checked_blog);
+			BlogsIO.saveMapPersonalContact(mapNewPersonalContactPertag, Parameter.file_personal_blog_getted_contact);
+			BlogsIO.saveMapBlogs(mapNewPersonalNotContactPertag, Parameter.file_personal_blog_not_get_contact);
+			System.out.println("Save personal contact blogs done!");
 			System.out.println();
+			mapNewPersonalContactPertag = new HashMap<>();
 			try{
 				httpclient.getConnectionManager().shutdown();
 			} catch (Exception e)
@@ -177,13 +219,15 @@ public class FranceUserExtraction
 	
 	public static void main(String[] args) throws Exception 
 	{
+		// Override system DNS setting with Google free DNS server
+		System.setProperty("sun.net.spi.nameservice.nameservers", "8.8.8.8");
+		System.setProperty("sun.net.spi.nameservice.provider.1", "dns,sun");
+				
 		System.out.println("Classifying france users ...");
-		
 		if(args.length>0)
 		{
 			Parameter.limit_post = Integer.parseInt(args[0]);
 		}
-		
 		while(true)
 		{
 			doAllTags();
