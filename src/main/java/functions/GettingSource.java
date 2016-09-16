@@ -96,7 +96,7 @@ public class GettingSource {
 			rd.close();
 		}
 		
-		return result.toString();
+		return result.toString().toLowerCase();
 	}
 	
 	public static void main(String [] args) throws IOException
