@@ -48,7 +48,8 @@ public class TestContactExtraction
 					mapNewPersonalNotContact.put(blog_url, 0);
 					System.out.println("cannot_contact");
 				} else {
-					if (listContact.contains(Parameter.label_personal_feature)) {
+					if (listContact.contains(Parameter.label_personal_feature)) 
+					{
 						listContact.remove(Parameter.label_personal_feature);
 						System.out.println("contact");
 					}

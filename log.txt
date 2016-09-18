@@ -2398,3 +2398,65 @@ org.apache.http.conn.HttpHostConnectException: Connect to lymeninja.org:443 [lym
 java.net.UnknownHostException: DNS name not found [response code 3]
 =========== Mon Aug 29 20:28:43 ICT 2016 ==========
 javax.net.ssl.SSLProtocolException: handshake alert:  unrecognized_name
+=========== Wed Sep 14 23:16:47 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'news.nationalpost.com' does not match the certificate subject provided by the peer (CN=*.wordpress.com, OU=Domain Control Validated)
+=========== Wed Sep 14 23:23:27 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'kymx.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Wed Sep 14 23:24:15 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'mix965houston.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Wed Sep 14 23:25:49 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'wrch.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Wed Sep 14 23:33:26 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'fanbuzz.com' does not match the certificate subject provided by the peer (CN=*.wordpress.com, OU=Domain Control Validated)
+=========== Wed Sep 14 23:33:40 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'calgaryherald.com' does not match the certificate subject provided by the peer (CN=ssl001.insnw.net, O="Instart Logic, Inc", L=Mountain View, ST=California, C=US)
+=========== Wed Sep 14 23:33:57 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'ottawacitizen.com' does not match the certificate subject provided by the peer (CN=ssl001.insnw.net, O="Instart Logic, Inc", L=Mountain View, ST=California, C=US)
+=========== Wed Sep 14 23:34:18 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'edmontonjournal.com' does not match the certificate subject provided by the peer (CN=ssl001.insnw.net, O="Instart Logic, Inc", L=Mountain View, ST=California, C=US)
+=========== Wed Sep 14 23:34:25 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'montrealgazette.com' does not match the certificate subject provided by the peer (CN=ssl001.insnw.net, O="Instart Logic, Inc", L=Mountain View, ST=California, C=US)
+=========== Wed Sep 14 23:34:29 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'leaderpost.com' does not match the certificate subject provided by the peer (CN=ssl001.insnw.net, O="Instart Logic, Inc", L=Mountain View, ST=California, C=US)
+=========== Wed Sep 14 23:34:31 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'windsorstar.com' does not match the certificate subject provided by the peer (CN=ssl001.insnw.net, O="Instart Logic, Inc", L=Mountain View, ST=California, C=US)
+=========== Wed Sep 14 23:34:37 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'thestarphoenix.com' does not match the certificate subject provided by the peer (CN=ssl001.insnw.net, O="Instart Logic, Inc", L=Mountain View, ST=California, C=US)
+=========== Wed Sep 14 23:35:07 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Wed Sep 14 23:42:43 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Wed Sep 14 23:45:52 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'mix1041.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Wed Sep 14 23:46:05 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Wed Sep 14 23:46:35 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'lagrande1075.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Wed Sep 14 23:47:47 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'ksfm.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Wed Sep 14 23:47:54 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'todays1019.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)
+=========== Thu Sep 15 00:08:45 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'windsorstar.com' does not match the certificate subject provided by the peer (CN=ssl001.insnw.net, O="Instart Logic, Inc", L=Mountain View, ST=California, C=US)
+=========== Thu Sep 15 00:08:48 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'cardinals.mlblogs.com' does not match the certificate subject provided by the peer (CN=*.wordpress.com, OU=Domain Control Validated)
+=========== Thu Sep 15 00:41:02 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'etcanada.com' does not match the certificate subject provided by the peer (CN=*.wordpress.com, OU=Domain Control Validated)
+=========== Thu Sep 15 00:50:24 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Thu Sep 15 01:02:00 ICT 2016 ==========
+java.net.UnknownHostException: DNS error
+=========== Sun Sep 18 23:51:02 ICT 2016 ==========
+org.apache.http.conn.HttpHostConnectException: Connect to thebradlo.com:443 [thebradlo.com/208.91.197.46] failed: Connection timed out: connect
+=========== Sun Sep 18 23:51:24 ICT 2016 ==========
+org.apache.http.conn.HttpHostConnectException: Connect to thebradlo.com:443 [thebradlo.com/208.91.197.46] failed: Connection timed out: connect
+=========== Sun Sep 18 23:56:41 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Sun Sep 18 23:56:42 ICT 2016 ==========
+java.net.UnknownHostException: keishikibi.com
+=========== Sun Sep 18 23:56:52 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Mon Sep 19 00:00:38 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Mon Sep 19 00:01:27 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'wzlx.cbslocal.com' does not match the certificate subject provided by the peer (CN=a248.e.akamai.net, O=Akamai Technologies Inc., L=Cambridge, ST=MA, C=US)

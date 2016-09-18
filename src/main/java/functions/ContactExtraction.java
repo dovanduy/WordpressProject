@@ -127,7 +127,6 @@ public class ContactExtraction {
 
 	public ArrayList<String> extractContactFromUrl(String url) throws IOException {
 		String sourceUser = mySource.getSource(url);
-		System.out.println(sourceUser);
 		if (sourceUser.compareToIgnoreCase("break") == 0) {
 			System.out.println("break");
 			return new ArrayList<>();
@@ -135,8 +134,9 @@ public class ContactExtraction {
 
 		ArrayList<String> listContacts = extractContactFromSource(sourceUser);
 
-		String linkabout = myAboutLink.getAboutLink(sourceUser);
-		if (linkabout.length() == 0) 
+		ArrayList<String> listLinkAbout = myAboutLink.getAboutLink(sourceUser);
+		String linkabout = "";
+		if (listLinkAbout.size() == 0) 
 		{
 			if (url.endsWith("/")) 
 			{
@@ -144,13 +144,25 @@ public class ContactExtraction {
 			} else {
 				linkabout = url + "/about";
 			}
-		}
-
-		String sourceAbout = mySource.getSource(linkabout);
-		ArrayList<String> listContacts_about = extractContactFromSource(sourceAbout);
-		for (String contact : listContacts_about) {
-			if (!listContacts.contains(contact)) {
-				listContacts.add(contact);
+			
+			String sourceAbout = mySource.getSource(linkabout);
+			ArrayList<String> listContacts_about = extractContactFromSource(sourceAbout);
+			for (String contact : listContacts_about) {
+				if (!listContacts.contains(contact)) {
+					listContacts.add(contact);
+				}
+			}
+		} else {
+			for(int i=0; i<listLinkAbout.size(); i++)
+			{
+				linkabout = listLinkAbout.get(i);
+				String sourceAbout = mySource.getSource(linkabout);
+				ArrayList<String> listContacts_about = extractContactFromSource(sourceAbout);
+				for (String contact : listContacts_about) {
+					if (!listContacts.contains(contact)) {
+						listContacts.add(contact);
+					}
+				}
 			}
 		}
 

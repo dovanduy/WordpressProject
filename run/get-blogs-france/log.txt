@@ -288,3 +288,43 @@ org.apache.http.conn.HttpHostConnectException: Connect to accidentalantenna.com:
 org.apache.http.client.ClientProtocolException
 =========== Tue Aug 30 15:10:20 ICT 2016 ==========
 java.net.UnknownHostException: DNS error
+=========== Tue Aug 30 15:14:20 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: ninaspeaksblog.wordpress.com:443 failed to respond
+=========== Tue Aug 30 16:17:35 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: m4dm4x.com:443 failed to respond
+=========== Tue Aug 30 16:19:31 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: bestfreebiestoday.wordpress.com:443 failed to respond
+=========== Tue Aug 30 16:20:02 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: source4themes.wordpress.com:443 failed to respond
+=========== Tue Aug 30 16:20:47 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: sun.security.validator.ValidatorException: PKIX path building failed: sun.security.provider.certpath.SunCertPathBuilderException: unable to find valid certification path to requested target
+=========== Tue Aug 30 16:22:02 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: slimmingsavingandbabyontheway.wordpress.com:443 failed to respond
+=========== Tue Aug 30 16:26:27 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: blingnink.wordpress.com:443 failed to respond
+=========== Tue Aug 30 16:29:20 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Tue Aug 30 16:29:40 ICT 2016 ==========
+java.net.UnknownHostException: DNS record not found
+=========== Tue Aug 30 16:29:51 ICT 2016 ==========
+org.apache.http.NoHttpResponseException: eyuling.wordpress.com:443 failed to respond
+=========== Tue Aug 30 16:33:00 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 16:36:13 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'blog.lovepastry.com' does not match the certificate subject provided by the peer (CN=dev.lovepastry.com, OU=PositiveSSL, OU=Domain Control Validated)
+=========== Tue Aug 30 16:37:40 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'www.listsforlife.net' does not match the certificate subject provided by the peer (CN=*.sgcpanel.com, OU=Domain Control Validated)
+=========== Tue Aug 30 16:39:01 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Remote host closed connection during handshake
+=========== Tue Aug 30 16:47:08 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'annabjordal.com' does not match the certificate subject provided by the peer (CN=*.nouw.com, OU=Domain Control Validated)
+=========== Tue Aug 30 16:48:33 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'lifeflavoredlemonade.com' does not match the certificate subject provided by the peer (CN=*.sgcpanel.com, OU=Domain Control Validated)
+=========== Tue Aug 30 16:51:42 ICT 2016 ==========
+javax.net.ssl.SSLPeerUnverifiedException: Host name 'sazra.co.uk' does not match the certificate subject provided by the peer (CN=*.secure-secure.uk, OU=Domain Control Validated)
+=========== Tue Aug 30 16:52:10 ICT 2016 ==========
+javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+=========== Tue Aug 30 16:53:57 ICT 2016 ==========
+java.net.UnknownHostException: DNS name not found [response code 3]
+=========== Tue Aug 30 16:55:31 ICT 2016 ==========
+org.apache.http.conn.HttpHostConnectException: Connect to livinglesh.com:443 [livinglesh.com/162.144.217.152] failed: Connection timed out: connect
