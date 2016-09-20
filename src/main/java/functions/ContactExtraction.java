@@ -13,10 +13,10 @@ import parameter.Parameter;
 
 public class ContactExtraction {
 
-	private String pattern_email = "[a-zA-Z0-9.\\_]{1,50}@[a-zA-Z.]{2,30}";
-	private String pattern_facebook = "http[s]?://[w]?[w]?[w]?[.]?facebook.com/[a-zA-Z0-9.\\_]{1,50}|follow me on facebook at [\\S]{1,30}";
-	private String pattern_instagram = "http[s]?://[w]?[w]?[w]?[.]?instagram.com/[a-zA-Z0-9.\\_\\/]{1,50}|follow me on instagram at [\\S]{1,30}";
-	private String patttern_twitter = "http[s]?://[w]?[w]?[w]?[.]?twitter.com/[a-zA-Z0-9.\\_\\/]{1,50}|follow me on twitter at [\\S]{1,30}";
+	private String pattern_email = "[a-zA-Z0-9.\\_]{1,50}@[a-zA-Z.]{2,30}|[a-zA-Z0-9.\\_]{1,50}\\(at\\)[a-zA-Z.]{2,30}|[a-zA-Z0-9.\\_]{1,50}\\[at\\][a-zA-Z.]{2,30}";
+	private String pattern_facebook = "http[s]?://[w]?[w]?[w]?[.]?facebook.com/[a-zA-Z0-9.\\_/\\-]{1,50}|follow me on facebook[ ]?[a]?[t]? [\\S]{1,30}|facebook:[ ]?[^<>\" ]{1,30}|facebook.com/[a-zA-Z0-9.\\_/\\-]{1,50}";
+	private String pattern_instagram = "http[s]?://[w]?[w]?[w]?[.]?instagram.com/[a-zA-Z0-9.\\_\\/]{1,50}|follow me on instagram[ ]?[a]?[t]? [\\S]{1,30}|instagram:[ ]?[^<>\" ]{1,30}";
+	private String patttern_twitter = "http[s]?://[w]?[w]?[w]?[.]?twitter.com/[a-zA-Z0-9.\\_\\/]{1,50}|follow me on titter[ ]?[a]?[t]? [\\S]{1,30}";
 	private String patttern_name = "my name[ ]?:[ ]?[\\S]{1,20}|my name is [\\S]{1,20}|my name's [\\S]{1,20}|i am |i'm |i&#8217;m | my | me |i have|i think";
 
 	private GettingSource mySource;
@@ -172,15 +172,10 @@ public class ContactExtraction {
 	public static void main(String[] args) throws IOException {
 		ContactExtraction object = new ContactExtraction();
 
-		String url = "https://iliketotravel2.wordpress.com/";
+		String url = "https://mumofdylan.wordpress.com/about/";
 		ArrayList<String> arrayListContents = object.extractContactFromUrl(url);
 		for (String content : arrayListContents) {
 			System.out.println(content);
 		}
-
-		// System.out.println(object.extractContactFromSource("If you would like
-		// email instead of comments, contact me at
-		// facetsofmyrichlife@gmail.com."));
-
 	}
 }

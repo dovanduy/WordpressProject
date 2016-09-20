@@ -102,7 +102,7 @@ public class GettingSource {
 	public static void main(String [] args) throws IOException
 	{
 		GettingSource object = new GettingSource();
-		String url = "https://www.youtube.com/channel/UCyC-NmxIV7T3FA2GoSt5FKQ/videos";
+		String url = "https://knowledgetobridgethegap.wordpress.com/about/";
 		if(args.length>0)
 		{
 			url = args[0];

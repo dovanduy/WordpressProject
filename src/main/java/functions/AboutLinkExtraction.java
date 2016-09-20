@@ -1,11 +1,12 @@
 package functions;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class AboutLinkExtraction {
-	private static String pattern_about = "http[s]?://[a-zA-Z0-9.\\_\\/]{1,50}/about[a-zA-Z\\-\\_]{0,20}|http[s]?://[a-zA-Z0-9.\\_\\/]{1,50}/contact[a-zA-Z\\-\\_]{0,20}";
+	private static String pattern_about = "http[s]?://[a-zA-Z0-9\\-.\\_\\/]{1,50}/about[a-zA-Z\\-\\_]{0,20}|http[s]?://[a-zA-Z0-9\\-.\\_\\/]{1,50}/contact[a-zA-Z\\-\\_]{0,20}|http[s]?://[a-zA-Z0-9\\-.\\_\\/]{1,50}/the-author|http[s]?://[a-zA-Z0-9\\-.\\_\\/]{1,50}/social";
 	
 	public ArrayList<String> getAboutLink(String source)
 	{
@@ -22,10 +23,12 @@ public class AboutLinkExtraction {
 		return listLinkAbout;
 	}
 	
-	public static void main(String [] args)
+	public static void main(String [] args) throws IOException
 	{
+		GettingSource gettingSource = new GettingSource();
+		String source = gettingSource.getSource("https://john-l-monk.com/");
+		System.out.println(source);
 		AboutLinkExtraction object = new AboutLinkExtraction();
-		String source = "<a href=\"https://tarahodgson.wordpress.com/about-real-women/\">";
-		System.out.println(object.getAboutLink(source));
+		System.out.println(object.getAboutLink("<a href=\"https://john-l-monk.com/contact-me/\">"));
 	}
 }
