@@ -17,6 +17,7 @@ import org.json.JSONObject;
 import data.BlogsIO;
 import functions.ContactExtraction;
 import functions.FirstTimestampExtraction;
+import functions.GettingSource;
 import functions.MyLog;
 import functions.RandomSequence;
 import functions.TagsExtraction;
@@ -30,8 +31,12 @@ public class EnglishBlogExtraction
 	static HashMap<String, Integer> mapAllBlogs = new HashMap<String, Integer>();
 	static ContactExtraction contactExtraction = new ContactExtraction();
 	
-	public static void init() throws IOException {
+	public static void init() throws IOException 
+	{
 		System.out.println("Start init ...");
+		
+		ContactExtraction.init();
+		GettingSource.init();
 		
 		File folder = new File(Parameter.folder_data);
 		if(!(folder.exists() && folder.isDirectory()))
@@ -133,13 +138,16 @@ public class EnglishBlogExtraction
 					for (int i = 0; i < posts.length(); i++) 
 					{
 						JSONObject post = posts.getJSONObject(i);
-						String blog_url = post.get("blog_url").toString().replace("http:", "https:");
+						String blog_url = post.getString("blog_url").replace("http:", "https:");
+						JSONObject post_author = post.getJSONObject("post_author");
+						String author_name = post_author.getString("name");
+						
 						before = post.getLong("post_timestamp") + "";
 						if(!mapAllBlogs.containsKey(blog_url))
 						{
 							mapAllBlogs.put(blog_url, 0);
 							mapBlogsPerTag.put(blog_url, 0);
-							ArrayList<String> listContact = contactExtraction.extractContactFromUrl(blog_url);
+							ArrayList<String> listContact = ContactExtraction.extractContactFromUrl(blog_url);
 							if(listContact.size()>0)
 							{
 								if(listContact.size()==1 && listContact.contains(Parameter.label_personal_feature))

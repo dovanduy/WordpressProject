@@ -12,8 +12,8 @@ import org.apache.http.impl.client.HttpClientBuilder;
 
 public class GettingSource {
 	
-	HttpClient httpclient;
-	public GettingSource()
+	static HttpClient httpclient;
+	static public void init()
 	{
 		// Override system DNS setting with Google free DNS server
 		System.setProperty("sun.net.spi.nameservice.nameservers", "8.8.8.8");
@@ -22,7 +22,7 @@ public class GettingSource {
 		httpclient = HttpClientBuilder.create().build();
 	}
 	
-	public String getSource(String url) throws IOException
+	static public String getSource(String url) throws IOException
 	{
 		StringBuffer result = new StringBuffer();
 		HttpResponse response = null;
@@ -101,16 +101,12 @@ public class GettingSource {
 	
 	public static void main(String [] args) throws IOException
 	{
-		GettingSource object = new GettingSource();
-		String url = "https://knowledgetobridgethegap.wordpress.com/about/";
+		String url = "https://petitesmignonneries.wix.com/lifestyle-voyage";
 		if(args.length>0)
 		{
 			url = args[0];
 		}
-		String source = object.getSource(url);
+		String source = getSource(url);
 		System.out.println(source);
-		
-//		CheckingFranceUser object2 = new CheckingFranceUser();
-//		System.out.println(object2.isFrancer(source));
 	}
 }

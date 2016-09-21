@@ -13,19 +13,15 @@ import parameter.Parameter;
 
 public class ContactExtraction {
 
-	private String pattern_email = "[a-zA-Z0-9.\\_]{1,50}@[a-zA-Z.]{2,30}|[a-zA-Z0-9.\\_]{1,50}\\(at\\)[a-zA-Z.]{2,30}|[a-zA-Z0-9.\\_]{1,50}\\[at\\][a-zA-Z.]{2,30}";
-	private String pattern_facebook = "http[s]?://[w]?[w]?[w]?[.]?facebook.com/[a-zA-Z0-9.\\_/\\-]{1,50}|follow me on facebook[ ]?[a]?[t]? [\\S]{1,30}|facebook:[ ]?[^<>\" ]{1,30}|facebook.com/[a-zA-Z0-9.\\_/\\-]{1,50}";
-	private String pattern_instagram = "http[s]?://[w]?[w]?[w]?[.]?instagram.com/[a-zA-Z0-9.\\_\\/]{1,50}|follow me on instagram[ ]?[a]?[t]? [\\S]{1,30}|instagram:[ ]?[^<>\" ]{1,30}";
-	private String patttern_twitter = "http[s]?://[w]?[w]?[w]?[.]?twitter.com/[a-zA-Z0-9.\\_\\/]{1,50}|follow me on titter[ ]?[a]?[t]? [\\S]{1,30}";
-	private String patttern_name = "my name[ ]?:[ ]?[\\S]{1,20}|my name is [\\S]{1,20}|my name's [\\S]{1,20}|i am |i'm |i&#8217;m | my | me |i have|i think";
+	static private String pattern_email = "[a-zA-Z0-9.\\_]{1,50}@[a-zA-Z.]{2,30}|[a-zA-Z0-9.\\_]{1,50}\\(at\\)[a-zA-Z.]{2,30}|[a-zA-Z0-9.\\_]{1,50}\\[at\\][a-zA-Z.]{2,30}";
+	static private String pattern_facebook = "http[s]?://[w]?[w]?[w]?[.]?facebook.com/[a-zA-Z0-9.\\_/\\-]{1,50}|follow me on facebook[ ]?[a]?[t]? [\\S]{1,30}|facebook:[ ]?[^<>\" ]{1,30}|facebook.com/[a-zA-Z0-9.\\_/\\-]{1,50}";
+	static private String pattern_instagram = "http[s]?://[w]?[w]?[w]?[.]?instagram.com/[a-zA-Z0-9.\\_\\/]{1,50}|follow me on instagram[ ]?[a]?[t]? [\\S]{1,30}|instagram:[ ]?[^<>\" ]{1,30}";
 
-	private GettingSource mySource;
-	private AboutLinkExtraction myAboutLink;
-	private HashSet<String> removeLink;
+	static private HashSet<String> removeLink;
 
-	public ContactExtraction() {
-		mySource = new GettingSource();
-		myAboutLink = new AboutLinkExtraction();
+	static public void init() 
+	{
+		GettingSource.init();
 		removeLink = new HashSet<>();
 		removeLink.add("https://www.facebook.com/pages");
 		removeLink.add("https://www.facebook.com/wikipedia");
@@ -47,7 +43,7 @@ public class ContactExtraction {
 		}
 	}
 
-	public ArrayList<String> extractContactFromSource(String source) 
+	static public ArrayList<String> extractContactFromSource(String source) 
 	{
 		HashSet<String> setContacts = new HashSet<>();
 		ArrayList<String> listContacts = new ArrayList<String>();
@@ -97,83 +93,37 @@ public class ContactExtraction {
 			}
 		}
 
-		// twitter
-		{
-			Pattern pattern = Pattern.compile(patttern_twitter);
-			Matcher matcher = pattern.matcher(source);
-			if (matcher.find()) {
-				do {
-					String candidate = matcher.group();
-					if (!setContacts.contains(candidate) && !removeLink.contains(candidate)) {
-						setContacts.add(candidate);
-						listContacts.add(candidate);
-					}
-				} while (matcher.find());
-			}
-		}
-
-		// personal name
-		{
-			Pattern pattern = Pattern.compile(patttern_name);
-			Matcher matcher = pattern.matcher(source.toLowerCase());
-			if (matcher.find()) {
-				setContacts.add(Parameter.label_personal_feature);
-				listContacts.add(Parameter.label_personal_feature);
-			}
-		}
-
 		return listContacts;
 	}
 
-	public ArrayList<String> extractContactFromUrl(String url) throws IOException {
-		String sourceUser = mySource.getSource(url);
-		if (sourceUser.compareToIgnoreCase("break") == 0) {
+	static public ArrayList<String> extractContactFromUrl(String url) throws IOException {
+		String sourceUser = GettingSource.getSource(url);
+		if (sourceUser.compareToIgnoreCase("break") == 0) 
+		{
 			System.out.println("break");
 			return new ArrayList<>();
 		}
-
 		ArrayList<String> listContacts = extractContactFromSource(sourceUser);
-
-		ArrayList<String> listLinkAbout = myAboutLink.getAboutLink(sourceUser);
-		String linkabout = "";
-		if (listLinkAbout.size() == 0) 
+		ArrayList<String> listLinkAbout = AboutLinkExtraction.getAboutLink(sourceUser);
+		for(int i=0; i<listLinkAbout.size(); i++)
 		{
-			if (url.endsWith("/")) 
-			{
-				linkabout = url + "about";
-			} else {
-				linkabout = url + "/about";
-			}
-			
-			String sourceAbout = mySource.getSource(linkabout);
+			String linkabout = listLinkAbout.get(i);
+			String sourceAbout = GettingSource.getSource(linkabout);
 			ArrayList<String> listContacts_about = extractContactFromSource(sourceAbout);
 			for (String contact : listContacts_about) {
 				if (!listContacts.contains(contact)) {
 					listContacts.add(contact);
 				}
 			}
-		} else {
-			for(int i=0; i<listLinkAbout.size(); i++)
-			{
-				linkabout = listLinkAbout.get(i);
-				String sourceAbout = mySource.getSource(linkabout);
-				ArrayList<String> listContacts_about = extractContactFromSource(sourceAbout);
-				for (String contact : listContacts_about) {
-					if (!listContacts.contains(contact)) {
-						listContacts.add(contact);
-					}
-				}
-			}
 		}
 
 		return listContacts;
 	}
 
-	public static void main(String[] args) throws IOException {
-		ContactExtraction object = new ContactExtraction();
-
+	public static void main(String[] args) throws IOException 
+	{
 		String url = "https://mumofdylan.wordpress.com/about/";
-		ArrayList<String> arrayListContents = object.extractContactFromUrl(url);
+		ArrayList<String> arrayListContents = extractContactFromUrl(url);
 		for (String content : arrayListContents) {
 			System.out.println(content);
 		}
