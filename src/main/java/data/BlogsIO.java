@@ -5,6 +5,7 @@ import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
 import java.util.HashMap;
 
 import parameter.Parameter;
@@ -29,6 +30,16 @@ public class BlogsIO
 		fw.close();
 		return true;
 	}
+	
+	public static boolean saveContactToExcelFile(ArrayList<String> rows, String file_name) throws IOException {
+		FileWriter fw = new FileWriter(file_name, true);
+		for(int i=0; i<rows.size(); i++)
+		{
+			fw.write(rows.get(i) + "\n");
+		}
+		fw.close();
+		return true;
+	}
 
 	public static HashMap<String, Integer> getMapCheckedBlog() throws IOException 
 	{
@@ -43,40 +54,6 @@ public class BlogsIO
 			mapBlogs.put(line, 0);
 		}
 		br.close();
-		return mapBlogs;
-	}
-	
-	public static HashMap<String, Integer> getMapPersonalBlog() throws IOException 
-	{
-		HashMap<String, Integer> mapBlogs = new HashMap<String, Integer>();
-		
-		// getted_contact
-		{
-			BufferedReader br = new BufferedReader(new InputStreamReader
-					(new FileInputStream(Parameter.file_personal_blog_getted_contact)));
-			String line;
-			while ((line = br.readLine()) != null) {
-				if (!line.endsWith("/")) {
-					line = line + "/";
-				}
-				mapBlogs.put(line, 0);
-			}
-			br.close();
-		}
-		
-		// not_get_contact
-		{
-			BufferedReader br = new BufferedReader(new InputStreamReader
-					(new FileInputStream(Parameter.file_personal_blog_not_get_contact)));
-			String line;
-			while ((line = br.readLine()) != null) {
-				if (!line.endsWith("/")) {
-					line = line + "/";
-				}
-				mapBlogs.put(line, 0);
-			}
-			br.close();
-		}
 		return mapBlogs;
 	}
 }

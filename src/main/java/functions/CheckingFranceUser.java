@@ -5,9 +5,9 @@ import java.util.ArrayList;
 
 public class CheckingFranceUser 
 {
-	FranceLanguageDetection franceDetection;
+	static FranceLanguageDetection franceDetection;
 	
-	public CheckingFranceUser()
+	public static void init()
 	{
 		try {
 			franceDetection = new FranceLanguageDetection();
@@ -16,7 +16,7 @@ public class CheckingFranceUser
 		};
 	}
 	
-	private int countPDF(String source)
+	private static int countPDF(String source)
 	{
 		String str = source.toLowerCase();				
 		String findStr = ".pdf";
@@ -35,7 +35,7 @@ public class CheckingFranceUser
 		return count;
 	}
 	
-	public boolean isFrancer(String source)
+	public static boolean isFrancer(String source)
 	{
 		// check raw blogs : contain many .pdf file.
 		if(countPDF(source)>30)
@@ -60,7 +60,7 @@ public class CheckingFranceUser
 	
 	public static void main(String [] args)
 	{
-		CheckingFranceUser object = new CheckingFranceUser();
-		System.out.println(object.isFrancer(".pdf akjdhkfjashdkfjhaskl/adkjsf.pdf"));
+		init();
+		System.out.println(isFrancer(".pdf akjdhkfjashdkfjhaskl/adkjsf.pdf"));
 	}
 }

@@ -15,20 +15,20 @@ import org.json.JSONArray;
 import org.json.JSONObject;
 
 import data.BlogsIO;
+import functions.CheckingPersonalBlog;
 import functions.ContactExtraction;
 import functions.FirstTimestampExtraction;
 import functions.GettingSource;
 import functions.MyLog;
 import functions.RandomSequence;
 import functions.TagsExtraction;
+import functions.Utils;
 import parameter.Parameter;
 
 @SuppressWarnings("deprecation")
 public class EnglishBlogExtraction 
 {
 	static HashMap<String, Integer> mapCheckedBlogs = new HashMap<String, Integer>();
-	static HashMap<String, Integer> mapOriginPersonalBlogs = new HashMap<String, Integer>();
-	static HashMap<String, Integer> mapAllBlogs = new HashMap<String, Integer>();
 	static ContactExtraction contactExtraction = new ContactExtraction();
 	
 	public static void init() throws IOException 
@@ -48,21 +48,6 @@ public class EnglishBlogExtraction
 		if(file_checked.exists() && !file_checked.isDirectory()) 
 		{ 
 			mapCheckedBlogs = BlogsIO.getMapCheckedBlog();
-		}
-		
-		File file_personal = new File(Parameter.file_personal_blog_getted_contact);
-		if(file_personal.exists() && !file_personal.isDirectory()) 
-		{ 
-			mapOriginPersonalBlogs = BlogsIO.getMapPersonalBlog();					
-		}
-		
-		for(String blog : mapCheckedBlogs.keySet())
-		{
-			mapAllBlogs.put(blog, 0);
-		}
-		for(String blog : mapOriginPersonalBlogs.keySet())
-		{
-			mapAllBlogs.put(blog, 0);
 		}
 		
 		System.out.println("Done init!");
@@ -92,8 +77,8 @@ public class EnglishBlogExtraction
 			String slug = arraySlugs[indexTag];
 			
 			HashMap<String, Integer> mapBlogsPerTag = new HashMap<String, Integer>();
-			HashMap<String, String> mapNewPersonalContactPertag = new HashMap<String, String>();
-			HashMap<String, Integer> mapNewPersonalNotContactPertag = new HashMap<String, Integer>();
+			HashMap<String, String> mapContactBlogsPertag = new HashMap<String, String>();
+			ArrayList<String> rows = new ArrayList<>();
 			
 			int number_post = 1;
 			
@@ -143,30 +128,27 @@ public class EnglishBlogExtraction
 						String author_name = post_author.getString("name");
 						
 						before = post.getLong("post_timestamp") + "";
-						if(!mapAllBlogs.containsKey(blog_url))
+						if(!mapCheckedBlogs.containsKey(blog_url))
 						{
-							mapAllBlogs.put(blog_url, 0);
+							mapCheckedBlogs.put(blog_url, 0);
 							mapBlogsPerTag.put(blog_url, 0);
-							ArrayList<String> listContact = ContactExtraction.extractContactFromUrl(blog_url);
-							if(listContact.size()>0)
+							
+							String source = GettingSource.getSource(blog_url);
+							if(CheckingPersonalBlog.isPersonalBlog(source))
 							{
-								if(listContact.size()==1 && listContact.contains(Parameter.label_personal_feature))
+								ArrayList<String> listContact = ContactExtraction.extractContactFromUrlAndSource(blog_url, source);
+								if(listContact.size()>0)
 								{
-									mapNewPersonalNotContactPertag.put(blog_url, 0);
-								} else {
-									if (listContact.contains(Parameter.label_personal_feature))
-									{
-										listContact.remove(Parameter.label_personal_feature);
-									}
-									mapNewPersonalContactPertag.put(blog_url, listContact.toString());
+									mapContactBlogsPertag.put(blog_url, listContact.toString());
+									rows.add(Utils.generateRow(blog_url, author_name, slug, listContact.toString()));
 								}
 							}
 						}
 						
 						System.out.println("Number posts per tag: " + (number_post++));
 						System.out.println("Number blogs per tag: " + mapBlogsPerTag.size());
-						System.out.println("Number personal-contact per tag: " + mapNewPersonalContactPertag.size());
-						System.out.println("Number blogs all tags: " +  + mapAllBlogs.size());
+						System.out.println("Number contacts English per tag: " + mapContactBlogsPertag.size());
+						System.out.println("Number all checked blogs: " +  + mapCheckedBlogs.size());
 						System.out.println("Blog: " + blog_url);
 						System.out.println();
 					}
@@ -188,11 +170,10 @@ public class EnglishBlogExtraction
 			}
 			
 			BlogsIO.saveMapBlogs(mapBlogsPerTag, Parameter.file_checked_blog);
-			BlogsIO.saveMapPersonalContact(mapNewPersonalContactPertag, Parameter.file_personal_blog_getted_contact);
-			BlogsIO.saveMapBlogs(mapNewPersonalNotContactPertag, Parameter.file_personal_blog_not_get_contact);
-			System.out.println("Save personal contact blogs done!");
+			BlogsIO.saveContactToExcelFile(rows, Parameter.file_contact_blog);
+			System.out.println("Save contact done!");
 			System.out.println();
-			mapNewPersonalContactPertag = new HashMap<>();
+			
 			try{
 				httpclient.getConnectionManager().shutdown();
 			} catch (Exception e)
@@ -211,7 +192,7 @@ public class EnglishBlogExtraction
 		
 		init();
 		
-		System.out.println("Extracting contacts of personal blogs in English ...");
+		System.out.println("Get English contacts ....");
 		if(args.length>0)
 		{
 			Parameter.limit_post = Integer.parseInt(args[0]);

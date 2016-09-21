@@ -119,6 +119,29 @@ public class ContactExtraction {
 
 		return listContacts;
 	}
+	
+	static public ArrayList<String> extractContactFromUrlAndSource(String url, String source) throws IOException {
+		if (source.compareToIgnoreCase("break") == 0) 
+		{
+			System.out.println("break");
+			return new ArrayList<>();
+		}
+		ArrayList<String> listContacts = extractContactFromSource(source);
+		ArrayList<String> listLinkAbout = AboutLinkExtraction.getAboutLink(source);
+		for(int i=0; i<listLinkAbout.size(); i++)
+		{
+			String linkabout = listLinkAbout.get(i);
+			String sourceAbout = GettingSource.getSource(linkabout);
+			ArrayList<String> listContacts_about = extractContactFromSource(sourceAbout);
+			for (String contact : listContacts_about) {
+				if (!listContacts.contains(contact)) {
+					listContacts.add(contact);
+				}
+			}
+		}
+
+		return listContacts;
+	}
 
 	public static void main(String[] args) throws IOException 
 	{
