@@ -3,6 +3,8 @@ package functions;
 import java.io.IOException;
 import java.util.ArrayList;
 
+import parameter.Parameter;
+
 public class CheckingFranceUser 
 {
 	static FranceLanguageDetection franceDetection;
@@ -48,8 +50,7 @@ public class CheckingFranceUser
 		for(int i=0; i<listContents.size(); i++)
 		{
 			String content = listContents.get(i);
-			// System.out.println(content);
-			if(franceDetection.isFrance(content))
+			if(franceDetection.isFrance(content) && content.split(" ").length > Parameter.thread_france)
 			{
 				return true;
 			}
@@ -58,9 +59,13 @@ public class CheckingFranceUser
 		return false;
 	}
 	
-	public static void main(String [] args)
+	public static void main(String [] args) throws IOException
 	{
 		init();
-		System.out.println(isFrancer(".pdf akjdhkfjashdkfjhaskl/adkjsf.pdf"));
+		GettingSource.init();
+		String blog = "https://zebrabeauty101.wordpress.com/";
+		String source = GettingSource.getSource(blog);
+		System.out.println(source);
+		System.out.println(isFrancer(source));
 	}
 }

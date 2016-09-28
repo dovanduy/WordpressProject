@@ -101,7 +101,8 @@ public class GettingSource {
 	
 	public static void main(String [] args) throws IOException
 	{
-		String url = "https://petitesmignonneries.wix.com/lifestyle-voyage";
+		init();
+		String url = "https://freshworldofvaleria.wordpress.com";
 		if(args.length>0)
 		{
 			url = args[0];

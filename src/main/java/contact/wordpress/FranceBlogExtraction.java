@@ -143,13 +143,16 @@ public class FranceBlogExtraction
 							mapBlogsPerTag.put(blog_url, 0);
 							
 							String source = GettingSource.getSource(blog_url);
-							if(CheckingFranceUser.isFrancer(source) && CheckingPersonalBlog.isPersonalBlog(source))
+							if(CheckingFranceUser.isFrancer(source))
 							{
-								ArrayList<String> listContact = ContactExtraction.extractContactFromUrlAndSource(blog_url, source);
-								if(listContact.size()>0)
+								if(CheckingPersonalBlog.isPersonalBlog(source))
 								{
-									mapContactBlogsPertag.put(blog_url, listContact.toString());
-									rows.add(Utils.generateRow(blog_url, author_name, slug, listContact.toString()));
+									ArrayList<String> listContact = ContactExtraction.extractContactFromUrlAndSource(blog_url, source);
+									if(listContact.size()>0)
+									{
+										mapContactBlogsPertag.put(blog_url, listContact.toString());
+										rows.add(Utils.generateRow(blog_url, author_name, slug, listContact.toString()));
+									}
 								}
 							}
 						}

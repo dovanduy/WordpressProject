@@ -13,4 +13,6 @@ public class Parameter {
 	public static String file_checked_blog = folder_data + "/checked-blogs.txt";
 	public static String file_contact_blog = folder_data + "/contact-blogs.csv";
 	public static String file_not_contact = "not-contact.txt";
+	
+	public static int thread_france = 20;
 }
