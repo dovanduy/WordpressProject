@@ -124,6 +124,9 @@ public class EnglishBlogExtraction
 					{
 						JSONObject post = posts.getJSONObject(i);
 						String blog_url = post.getString("blog_url").replace("http:", "https:");
+						if (blog_url.endsWith("/")) {
+							blog_url = blog_url.substring(0, blog_url.length()-1);
+						}
 						JSONObject post_author = post.getJSONObject("post_author");
 						String author_name = post_author.getString("name");
 						

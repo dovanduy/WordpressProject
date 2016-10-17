@@ -48,12 +48,19 @@ public class BlogsIO
 				new FileInputStream(Parameter.file_checked_blog)));
 		String line;
 		while ((line = br.readLine()) != null) {
-			if (!line.endsWith("/")) {
-				line = line + "/";
+			if (line.endsWith("/")) {
+				line = line.substring(0, line.length()-1);
 			}
+			System.out.println(line);
 			mapBlogs.put(line, 0);
 		}
 		br.close();
 		return mapBlogs;
+	}
+	
+	public static void main(String [] args) throws IOException
+	{
+		HashMap<String, Integer> tempMap = getMapCheckedBlog();
+		System.out.println(tempMap.size());
 	}
 }

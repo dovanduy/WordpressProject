@@ -3,7 +3,7 @@ package parameter;
 public class Parameter {
 	public static String wordpress_tag_english = "https://en.wordpress.com/tags/";
 	public static String wordpress_tag_france = "https://fr.wordpress.com/tags/";
-	public static int limit_post = 20;
+	public static int limit_post = 100;
 	public static String wordpress_prefix_tag_english = "https://en.wordpress.com/tag/";
 	public static String wordpress_prefix_tag_france = "https://fr.wordpress.com/tag/";
 	public static String file_tags = "data/tags.txt";

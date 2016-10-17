@@ -45,7 +45,7 @@ public class FranceBlogExtraction
 		
 		File file_checked = new File(Parameter.file_checked_blog);
 		if(file_checked.exists() && !file_checked.isDirectory()) 
-		{ 
+		{
 			mapCheckedBlogs = BlogsIO.getMapCheckedBlog();
 		}
 		
@@ -117,15 +117,8 @@ public class FranceBlogExtraction
 
 					ResponseHandler<String> responseHandler = new BasicResponseHandler();
 
-					String responseBody = "";
+					String responseBody = httpclient.execute(httppost, responseHandler);
 					
-					try{
-						responseBody = httpclient.execute(httppost, responseHandler);
-					} catch (Exception e)
-					{
-						e.printStackTrace();
-					}
-
 					JSONObject page = new JSONObject(responseBody);
 					JSONArray posts = page.getJSONArray("posts");
 
@@ -133,6 +126,9 @@ public class FranceBlogExtraction
 					{
 						JSONObject post = posts.getJSONObject(i);
 						String blog_url = post.getString("blog_url").replace("http:", "https:");
+						if (blog_url.endsWith("/")) {
+							blog_url = blog_url.substring(0, blog_url.length()-1);
+						}
 						JSONObject post_author = post.getJSONObject("post_author");
 						String author_name = post_author.getString("name");
 						
